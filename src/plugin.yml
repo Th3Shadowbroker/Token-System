@@ -1,0 +1,11 @@
+name: TokenSystem
+version: 1.1.4
+description: PvP-Economy
+author: Th3Shadowbroker
+website: http://crafter629.de
+main: com.th3shadowbroker.TokenSystem.Main.tsmain
+
+commands:
+     ts:
+        description: TokenSystem reload or info.
+        permission: TokenSystem.admin

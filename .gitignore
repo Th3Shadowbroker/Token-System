@@ -1,0 +1,6 @@
+#NetBeans
+/nbproject/
+/test/
+
+manifest.mf
+build.xml
